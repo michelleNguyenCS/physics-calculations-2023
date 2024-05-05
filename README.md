@@ -18,7 +18,7 @@ Some Concepts Studied:
 
 Required File for Program:
 - cps109_a1.py
-- The text files are optional, they (cps109_a1_output.txt, physics_data.txt) are not required as the program will initialize them in the folder if they are not there.
+- The text files (cps109_a1_output.txt, physics_data.txt) are optional, they are not required as the program will initialize them in the folder if they are not there.
 
 Note:
 - Not the most creative or interesting idea I had for an assignment. I was running low on time due to other coursework so I chose a more simple idea.
