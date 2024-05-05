@@ -12,4 +12,4 @@ Program Description: (Copied from my Docstring)\
 
 Note:\
 Unfortunately, this isn't the most creative or interesting idea I had for an assignment.\
-I was running low on time due to other coursework so I chose to a more simple idea.\
+I was running low on time due to other coursework so I chose to a more simple idea.
