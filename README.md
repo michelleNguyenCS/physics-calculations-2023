@@ -5,7 +5,7 @@ Date of Completion: 2023-11-24\
 Achieved Grade: 100%
 
 
-Program Description: (Copied from my Docstring)\
+Program Description: (Copied from my Docstring)
 
 Three main features:
   - Calculate values for physics equations
