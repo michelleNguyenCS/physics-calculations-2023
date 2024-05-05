@@ -16,6 +16,10 @@ Some Concepts Studied:
 - Try/Except
 - Text-Based GUI
 
+Required File for Program:
+- cps109_a1.py
+The text files (cps109_a1_output.txt, physics_data.txt) are not required as the program will initialize them in the folder if they are not there.
+
 Note:
-- Unfortunately, this isn't the most creative or interesting idea I had for an assignment. I was running low on time due to other coursework so I chose a more simple idea.
+- Not the most creative or interesting idea I had for an assignment. I was running low on time due to other coursework so I chose a more simple idea.
 - I did not have as much constraints on the variable, didn't have time to do that much variable checking. (ex. mass can be negative)
