@@ -6,9 +6,9 @@ Achieved Grade: 100%
 
 Program Description: (Copied from my Docstring)\
   Three main features:
-  1. Calculate values for physics equations
-  2. Store values (physics data) in a .txt file
-  3. Read values (physics data) from the .txt file and output to user
+  - Calculate values for physics equations
+  - Store values (physics data) in a .txt file
+  - Read values (physics data) from the .txt file and output to user
 
 Note:\
 Unfortunately, this isn't the most creative or interesting idea I had for an assignment.\
