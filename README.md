@@ -10,6 +10,12 @@ Program Description: (Copied from my Docstring)
 - Read values (physics data) from the .txt file and output to user
 - Store the user's interaction with the text GUI in a separate text file, essentially an output log
 
+Current Physics Formulas:
+- Momentum
+- Change in Momentum
+- Final Momentum
+- Final Velocity
+
 Some Concepts Studied:
 - Modular Programming
 - File R/W
